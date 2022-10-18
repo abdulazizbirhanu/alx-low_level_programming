@@ -2,7 +2,7 @@
 
 /**
  * jack_bauer - print every minute of 00:00 to 23:59.
- * 
+ *
  * Return: Always void
  *
  */
