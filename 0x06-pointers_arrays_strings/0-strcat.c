@@ -7,6 +7,7 @@
  *
  * Return: the full string
  */
+
 char *_strcat(char *dest, char *src)
 {
 	int i, size, j;
